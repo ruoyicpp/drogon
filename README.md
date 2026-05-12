@@ -1,5 +1,7 @@
 <div align="center">
 
+[English](README_EN.md) | 中文
+
 # Drogon 预编译静态库
 
 **Drogon 官方框架预编译静态库**
