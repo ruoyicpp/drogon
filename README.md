@@ -1,12 +1,23 @@
-# Drogon 预编译静态库
-
 <div align="center">
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey.svg)]()
-[![C++](https://img.shields.io/badge/C%2B%2B-17-blue.svg)]()
+# Drogon 预编译静态库
 
-为 [RuoYi-Cpp](https://gitee.com/ruoyicpp/ruoyi-cpp) 项目提供的 **Drogon 官方框架**预编译静态库
+**Drogon 官方框架预编译静态库**
+
+为 [RuoYi-Cpp](https://gitee.com/ruoyicpp/ruoyi-cpp) 项目提供开箱即用的 Drogon 静态库
+
+<p>
+<img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
+<img src="https://img.shields.io/badge/C++-17-blue.svg" alt="C++17">
+<img src="https://img.shields.io/badge/Drogon-latest-green.svg" alt="Drogon">
+<img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey.svg" alt="Platform">
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Windows-MSYS2%20UCRT64-blue.svg" alt="Windows">
+<img src="https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Debian-orange.svg" alt="Linux">
+<img src="https://img.shields.io/badge/size-26%20MB-green.svg" alt="Size">
+</p>
 
 [快速开始](#-快速开始) • [使用说明](#-使用说明) • [常见问题](#-常见问题)
 
