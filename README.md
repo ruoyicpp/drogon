@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/size-26%20MB-green.svg" alt="Size">
 </p>
 
+**参考项目**: [RuoYi-Cpp 管理框架](https://gitee.com/ruoyicpp/ruoyi-cpp) | [GitHub](https://github.com/ruoyicpp/ruoyi-cpp)
+
 [快速开始](#-快速开始) • [使用说明](#-使用说明) • [常见问题](#-常见问题)
 
 </div>
