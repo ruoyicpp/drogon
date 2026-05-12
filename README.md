@@ -117,7 +117,9 @@ linux/
 
 4. **安装系统依赖**
 
-   **Windows (MSYS2 UCRT64)**:
+   **Windows (MSYS2)**:
+   
+   **推荐：UCRT64 工具链**（与预编译库 ABI 完全匹配）
    ```bash
    # 打开 MSYS2 UCRT64 终端
    pacman -S mingw-w64-ucrt-x86_64-gcc \
@@ -127,7 +129,19 @@ linux/
              mingw-w64-ucrt-x86_64-hiredis
    ```
    
-   ⚠️ **重要**: 必须使用 **UCRT64** 工具链，不能使用 MinGW64！
+   **可选：MinGW64 工具链**（需要明文模式编译）
+   ```bash
+   # 打开 MSYS2 MinGW64 终端
+   pacman -S mingw-w64-x86_64-gcc \
+             mingw-w64-x86_64-cmake \
+             mingw-w64-x86_64-openssl \
+             mingw-w64-x86_64-postgresql \
+             mingw-w64-x86_64-hiredis
+   ```
+   
+   > **说明**: 
+   > - **UCRT64**：推荐使用，与预编译库 ABI 完全兼容
+   > - **MinGW64**：可以使用，但需要在 CMake 中添加 `-DRUOYI_DEV_BYPASS_LICENSE=ON` 跳过许可证加密功能
 
    **Linux (Ubuntu/Debian)**:
    ```bash
