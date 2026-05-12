@@ -1,6 +1,16 @@
 # Drogon 预编译库
 
-为 [RuoYi-Cpp](https://gitee.com/ruoyicpp/ruoyi-cpp) 项目提供的 Drogon 框架预编译静态库。
+为 [RuoYi-Cpp](https://gitee.com/ruoyicpp/ruoyi-cpp) 项目提供的 **Drogon 官方框架**预编译静态库。
+
+## 📌 关于 Drogon
+
+**Drogon** 是一个基于 C++17/20 的高性能 HTTP 应用框架。
+
+- **官方网站**: https://drogon.org/
+- **官方 GitHub**: https://github.com/drogonframework/drogon
+- **官方文档**: https://drogon.docsforge.com/
+
+本仓库提供的是 Drogon 官方源码编译的静态库，未做任何修改。
 
 ## 📦 包含内容
 
