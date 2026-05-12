@@ -6,7 +6,7 @@ English | [中文](README.md)
 
 **Official Drogon Framework Prebuilt Static Libraries**
 
-Ready-to-use Drogon static libraries for [RuoYi-Cpp](https://gitee.com/ruoyicpp/ruoyi-cpp) project
+Ready-to-use Drogon static libraries for [RuoYi-Cpp](https://gitee.com/ruoyicpp/ruoyi) project
 
 <p>
 <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
@@ -333,7 +333,7 @@ sudo make install
 
 ## 🔗 Related Links
 
-- 📦 [RuoYi-Cpp Main Project (Gitee)](https://gitee.com/ruoyicpp/ruoyi-cpp) - Complete project using this library
+- 📦 [RuoYi-Cpp Main Project (Gitee)](https://gitee.com/ruoyicpp/ruoyi) - Complete project using this library
 - 📦 [RuoYi-Cpp Main Project (GitHub)](https://github.com/ruoyicpp/ruoyi) - GitHub mirror
 - 🌐 [Drogon Official Website](https://drogon.org/) - Official homepage
 - 💻 [Drogon GitHub](https://github.com/drogonframework/drogon) - Official source code
