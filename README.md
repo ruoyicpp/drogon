@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/size-26%20MB-green.svg" alt="Size">
 </p>
 
-**参考项目**: [RuoYi-Cpp 管理框架](https://gitee.com/ruoyicpp/ruoyi-cpp) | [GitHub](https://github.com/ruoyicpp/ruoyi-cpp)
+**参考项目**: [RuoYi-Cpp 管理框架](https://gitee.com/ruoyicpp/ruoyi-cpp) | [GitHub](https://github.com/ruoyicpp/ruoyi)
 
 [快速开始](#-快速开始) • [使用说明](#-使用说明) • [常见问题](#-常见问题)
 
@@ -331,7 +331,8 @@ sudo make install
 
 ## 🔗 相关链接
 
-- 📦 [RuoYi-Cpp 主项目](https://gitee.com/ruoyicpp/ruoyi-cpp) - 使用本库的完整项目
+- 📦 [RuoYi-Cpp 主项目 (Gitee)](https://gitee.com/ruoyicpp/ruoyi-cpp) - 使用本库的完整项目
+- 📦 [RuoYi-Cpp 主项目 (GitHub)](https://github.com/ruoyicpp/ruoyi) - GitHub 镜像
 - 🌐 [Drogon 官方网站](https://drogon.org/) - 官方主页
 - 💻 [Drogon GitHub](https://github.com/drogonframework/drogon) - 官方源码
 - 📖 [Drogon 文档](https://drogon.docsforge.com/) - 官方文档
